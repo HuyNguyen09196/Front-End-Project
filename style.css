@@ -1,0 +1,48 @@
+   body{
+    background-color: rgb(35, 34, 32);
+    opacity: 90%;
+    border: 0ch;
+  
+   }
+   #result{
+    background-color: #212529;
+    border-color: #212529;
+   }
+   .card{
+    float: left;
+   margin-left: 20px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   background: #212529;
+   
+   
+  
+  }
+  .card-img-top{
+    height: 250px;
+  }
+  #home{
+    align-self: center;
+    font-size: 25px;
+    color: rgb(245, 234, 234);
+  }
+  #title{
+    margin-left: 1080px;
+    align-self: center;
+    font-size: 40px;
+    color: rgb(219, 14, 14);
+}
+#abcd{
+  margin-left: 70px;
+  
+}
+#bd{
+  height: 200px; 
+  background-color: #212529;
+}
+#text{
+  color: white;
+}
+
+
+  

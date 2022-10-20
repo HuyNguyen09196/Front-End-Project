@@ -1,0 +1,21 @@
+body {
+    /* background-image: url(Wallpaper2.jpeg); */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #ebdcdc;
+    opacity: 100%;
+  }
+  .card{
+    float: left;
+   margin-left: 20px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   /* height: 600px; */
+  }
+/* 
+  #abc{
+    margin-left: 65px;
+  }
+   */
