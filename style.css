@@ -4,22 +4,25 @@
     border: 0ch;
   
    }
-   #result{
+   .layout{
+    float:left;
     background-color: #212529;
-    border-color: #212529;
+    margin-left: 40px;
+    margin-right: 40px;
    }
    .card{
     float: left;
-   margin-left: 20px;
+   margin-left: 10px;
    margin-top: 20px;
    margin-bottom: 20px;
-   background: #212529;
-   
-   
-  
+   background: #3b3c3d;
   }
   .card-img-top{
     height: 250px;
+  }
+  .card-img-top:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
   }
   #home{
     align-self: center;
@@ -32,17 +35,32 @@
     font-size: 40px;
     color: rgb(219, 14, 14);
 }
-#abcd{
+  #abcd{
   margin-left: 70px;
   
 }
-#bd{
+  #bd{
   height: 200px; 
   background-color: #212529;
 }
-#text{
+    #text{
   color: white;
 }
-
-
-  
+  #login{
+  height: 40px;
+  align-self: center;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+.login{
+  height: 300px;
+  width: 500px;
+  border-radius: 10px;
+  border-color: white;
+  background-color: white;
+  margin-left: 1050px;
+  margin-top: 200px;
+}
+#input1{
+  margin-top: 20px;
+}
