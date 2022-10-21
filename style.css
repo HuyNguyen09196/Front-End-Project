@@ -12,18 +12,19 @@
    }
    .card{
     float: left;
-   margin-left: 10px;
+   margin-left: 20px;
    margin-top: 20px;
    margin-bottom: 20px;
    background: #3b3c3d;
   }
+  .card:hover{
+    transform: scale(1.1);
+    transition: 1s;
+  }
   .card-img-top{
     height: 250px;
   }
-  .card-img-top:hover{
-    transform: scale(1.1);
-    transition: 0.5s;
-  }
+  
   #home{
     align-self: center;
     font-size: 25px;

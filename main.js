@@ -38,6 +38,7 @@ $(document).ready(function(){
       $div2.append($a);
       $div2.append($a2);
       
+      
     }
   });
 });
@@ -82,6 +83,7 @@ function search(e){
       $div.css("float","left")
       $div.css("display","flex")
       $div2.append($a2);  
+     
       
     }
   });
